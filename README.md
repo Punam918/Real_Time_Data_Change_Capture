@@ -1,6 +1,6 @@
 
 # Real Time Changed Data Capturing
-A real time data changed data Capturing using postgresql, docker, debezium, apache kafka, confluent control centre.
+A real time changed data Capturing using postgresql, docker, debezium, apache kafka, confluent control centre.
 
 
 ### Steps
